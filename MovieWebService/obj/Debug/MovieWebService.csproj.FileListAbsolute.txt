@@ -4,3 +4,11 @@ c:\users\michael\documents\visual studio 2015\Projects\MovieWebService\MovieWebS
 c:\users\michael\documents\visual studio 2015\Projects\MovieWebService\MovieWebService\obj\Debug\MovieWebService.csprojResolveAssemblyReference.cache
 c:\users\michael\documents\visual studio 2015\Projects\MovieWebService\MovieWebService\obj\Debug\MovieWebService.dll
 c:\users\michael\documents\visual studio 2015\Projects\MovieWebService\MovieWebService\obj\Debug\MovieWebService.pdb
+C:\PBA_Projects\MoviesWebService\MovieService_WCF\MovieWebService\bin\Debug\MovieWebService.dll.config
+C:\PBA_Projects\MoviesWebService\MovieService_WCF\MovieWebService\bin\Debug\MovieWebService.dll
+C:\PBA_Projects\MoviesWebService\MovieService_WCF\MovieWebService\bin\Debug\MovieWebService.pdb
+C:\PBA_Projects\MoviesWebService\MovieService_WCF\MovieWebService\bin\Debug\DataAccessLayer.dll
+C:\PBA_Projects\MoviesWebService\MovieService_WCF\MovieWebService\bin\Debug\DataAccessLayer.pdb
+C:\PBA_Projects\MoviesWebService\MovieService_WCF\MovieWebService\obj\Debug\MovieWebService.csprojResolveAssemblyReference.cache
+C:\PBA_Projects\MoviesWebService\MovieService_WCF\MovieWebService\obj\Debug\MovieWebService.dll
+C:\PBA_Projects\MoviesWebService\MovieService_WCF\MovieWebService\obj\Debug\MovieWebService.pdb
