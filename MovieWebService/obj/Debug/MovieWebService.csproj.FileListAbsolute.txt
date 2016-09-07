@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\MovieWebService\MovieWebService\bin\Debug\MovieWebService.dll.config
+c:\users\michael\documents\visual studio 2015\Projects\MovieWebService\MovieWebService\bin\Debug\MovieWebService.dll
+c:\users\michael\documents\visual studio 2015\Projects\MovieWebService\MovieWebService\bin\Debug\MovieWebService.pdb
+c:\users\michael\documents\visual studio 2015\Projects\MovieWebService\MovieWebService\obj\Debug\MovieWebService.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\MovieWebService\MovieWebService\obj\Debug\MovieWebService.dll
+c:\users\michael\documents\visual studio 2015\Projects\MovieWebService\MovieWebService\obj\Debug\MovieWebService.pdb
